@@ -1,43 +1,13 @@
-.app{
-    border-radius: 20px;
-    margin: 20px;
-    padding: 30px;
-    background: rgb(247, 220, 139)
-}
-
-
-.control-label{
+.container-fluid{
     border-radius: 0px;
-    margin: 5px;
-    background: #fff
-}
-.grupo-boton{
-    border-radius: 0px;
-    margin: 10px;
-    padding: 10px;
-    background-color: rgb(247, 220, 139)
-  
-}
-.formulario{
-    border-radius: 0px;
-    margin: 20px;
-    padding: 30px;
-    background: #fff
+    margin: 0px;
+    padding: 50px;
+    background: rgb(143, 204, 151)
 }
 
-.nav-right{
-    text-align: right;
-}
-
-ul.nav{
-    display: inline-block;
-}
 .table{
-    width: 94%;    
+    border-radius: 10px;
+    width: 100%;    
     text-align:  center;
-}
-
-.img-responsive{
-    width: 94%;    
-    text-align:  center;
+    background: rgba(3, 46, 16, 0.205)
 }

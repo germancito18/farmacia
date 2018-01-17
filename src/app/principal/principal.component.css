@@ -1,8 +1,8 @@
-.app{
-    border-radius: 20px;
-    margin: 20px;
-    padding: 30px;
-    background: rgb(247, 220, 139)
+.container-fluid{
+    border-radius: 0px;
+    margin: 0px;
+    padding: 50px;
+    background: rgb(143, 204, 151)
 }
 
 .menu{
