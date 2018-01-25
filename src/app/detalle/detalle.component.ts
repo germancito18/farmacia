@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { DetalleService } from '../detalle.service';
 
 @Component({
   selector: 'app-detalle',

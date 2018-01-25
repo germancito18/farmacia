@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { PrincipalService } from '../principal.service';
 
 @Component({
   selector: 'app-principal',
